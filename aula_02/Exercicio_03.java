@@ -1,0 +1,25 @@
+package aula_02;
+
+public class Exercicio_03 
+{
+    
+    public static void main(String args[])
+    {
+
+        short i; 
+
+        for(i = 0; i <= 500; i++)
+        {
+
+            if(i % 2 == 0)
+            {
+
+                System.out.println(i);
+
+            }
+
+        }
+
+    }
+
+}
